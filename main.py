@@ -6,7 +6,6 @@ app = FastAPI()
 data = [
   {
     "id": "1",
-    "type": "1",
     "attributes": {
       "name": "Фродо Бэггинс",
       "born": "22 сентября 2968 Третьей Эпохи",
