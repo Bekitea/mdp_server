@@ -475,7 +475,7 @@ async def get_characters(
     return {
         "meta": {
           "pagination": {
-              "next": page
+              "next": page+1
           }
         },
         "data": paginated_data
