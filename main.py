@@ -19,7 +19,7 @@ data = [
         "name": "Samwise Gamgee",
         "born": "April 6, 2980 of the Third Age",
         "died": "Unknown (departed Middle-earth in the Fourth Age)",
-        "image": ""
+        "image": "null"
     }
   },
   {
@@ -37,7 +37,7 @@ data = [
         "name": "Gandalf",
         "born": "Unknown (known as the Maia Olórin)",
         "died": "Not applicable (immortal)",
-        "image": ""
+        "image": "null"
     }
   },
   {
@@ -64,7 +64,7 @@ data = [
         "name": "Boromir",
         "born": "2978 of the Third Age",
         "died": "February 26, 3019 of the Third Age",
-        "image": ""
+        "image": "null"
     }
   },
   {
@@ -73,7 +73,7 @@ data = [
         "name": "Galadriel",
         "born": "Unknown (one of the first Elves of Middle-earth)",
         "died": "Not applicable (departed Middle-earth in the Fourth Age)",
-        "image": ""
+        "image": "null"
     }
   },
   {
@@ -82,7 +82,7 @@ data = [
         "name": "Sauron",
         "born": "Unknown (known as a Maia)",
         "died": "Third Age 3019 (loss of physical form)",
-        "image": ""
+        "image": "null"
     }
   },
   {
@@ -91,7 +91,7 @@ data = [
         "name": "Gollum (Sméagol)",
         "born": "Circa 2430 of the Third Age",
         "died": "March 25, 3019 of the Third Age",
-        "image": ""
+        "image": "null"
     }
   }
 ]
