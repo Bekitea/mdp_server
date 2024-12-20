@@ -7,451 +7,91 @@ data = [
   {
     "id": "1",
     "attributes": {
-      "name": "Фродо Бэггинс",
-      "born": "22 сентября 2968 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/frodo.jpg"
+        "name": "Frodo Baggins",
+        "born": "September 22, 2968 of the Third Age",
+        "died": "Unknown (departed Middle-earth in the Fourth Age)",
+        "image": "https://s0.rbk.ru/v6_top_pics/media/img/5/13/347149765055135.jpeg"
     }
   },
   {
     "id": "2",
     "attributes": {
-      "name": "Сэмвайз Гэмджи",
-      "born": "6 апреля 2980 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/sam.jpg"
+        "name": "Samwise Gamgee",
+        "born": "April 6, 2980 of the Third Age",
+        "died": "Unknown (departed Middle-earth in the Fourth Age)",
+        "image": ""
     }
   },
   {
     "id": "3",
     "attributes": {
-      "name": "Арагорн",
-      "born": "1 марта 2931 Третьей Эпохи",
-      "died": "1 марта 120 Четвертой Эпохи",
-      "image": "https://example.com/images/aragorn.jpg"
+        "name": "Aragorn",
+        "born": "March 1, 2931 of the Third Age",
+        "died": "March 1, 120 of the Fourth Age",
+        "image": "https://cdn.vox-cdn.com/thumbor/9SR6EQb0ie534xcmQxvJLh-csR8=/0x0:3840x1596/1200x800/filters:focal(2059x489:2673x1103)/cdn.vox-cdn.com/uploads/chorus_image/image/73337214/4k_fellowship_movie_screencaps.com_12336.0.jpg"
     }
   },
   {
     "id": "4",
     "attributes": {
-      "name": "Гэндальф",
-      "born": "Неизвестно (известен как Майар Олорин)",
-      "died": "Не применимо (бессмертен)",
-      "image": "https://example.com/images/gandalf.jpg"
+        "name": "Gandalf",
+        "born": "Unknown (known as the Maia Olórin)",
+        "died": "Not applicable (immortal)",
+        "image": ""
     }
   },
   {
     "id": "5",
     "attributes": {
-      "name": "Леголас",
-      "born": "Неизвестно (синдарский эльф)",
-      "died": "Неизвестно (покинул Средиземье с Гимли)",
-      "image": "https://example.com/images/legolas.jpg"
+        "name": "Legolas",
+        "born": "Unknown (a Sindarin Elf)",
+        "died": "Unknown (departed Middle-earth with Gimli)",
+        "image": "https://i.pinimg.com/originals/7c/5b/a9/7c5ba9b51616b629265dfd2eb0045037.jpg"
     }
   },
   {
     "id": "6",
     "attributes": {
-      "name": "Гимли",
-      "born": "2879 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье с Леголасом)",
-      "image": "https://example.com/images/gimli.jpg"
+        "name": "Gimli",
+        "born": "2879 of the Third Age",
+        "died": "Unknown (departed Middle-earth with Legolas)",
+        "image": "https://img.atlasobscura.com/KtyGt-W6P4O_M_qGT-8xkuWPFb0BHRx149VUttqMWGA/rt:fit/w:1280/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85Nzk3YTZiZC03/NTI4LTRjNjItYjZj/MC0wYjkwMDM3M2Yw/NzhhNzA3YTNiYzY2/YWVlMDYzNzhfR2lt/bGkgaW4gVEhFIExP/UkQgT0YgVEhFIFJJ/TkdTX1RIRSBUV08g/VE9XRVJTX1JZQ0sx/OC5qcGc.jpg"
     }
   },
   {
     "id": "7",
     "attributes": {
-      "name": "Боромир",
-      "born": "2978 Третьей Эпохи",
-      "died": "26 февраля 3019 Третьей Эпохи",
-      "image": "https://example.com/images/boromir.jpg"
+        "name": "Boromir",
+        "born": "2978 of the Third Age",
+        "died": "February 26, 3019 of the Third Age",
+        "image": ""
     }
   },
   {
     "id": "8",
     "attributes": {
-      "name": "Галадриэль",
-      "born": "Неизвестно (одна из первых эльфов Средиземья)",
-      "died": "Не применимо (покинула Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/galadriel.jpg"
+        "name": "Galadriel",
+        "born": "Unknown (one of the first Elves of Middle-earth)",
+        "died": "Not applicable (departed Middle-earth in the Fourth Age)",
+        "image": ""
     }
   },
   {
     "id": "9",
     "attributes": {
-      "name": "Саурон",
-      "born": "Неизвестно (известен как Майар)",
-      "died": "Третья Эпоха 3019 (утрата физического тела)",
-      "image": "https://example.com/images/sauron.jpg"
+        "name": "Sauron",
+        "born": "Unknown (known as a Maia)",
+        "died": "Third Age 3019 (loss of physical form)",
+        "image": ""
     }
   },
   {
     "id": "10",
     "attributes": {
-      "name": "Голлум (Смеагол)",
-      "born": "около 2430 Третьей Эпохи",
-      "died": "25 марта 3019 Третьей Эпохи",
-      "image": "https://example.com/images/gollum.jpg"
-    }
-  },
-  {
-    "id": "1",
-    "attributes": {
-      "name": "Фродо Бэггинс",
-      "born": "22 сентября 2968 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/frodo.jpg"
-    }
-  },
-  {
-    "id": "2",
-    "attributes": {
-      "name": "Сэмвайз Гэмджи",
-      "born": "6 апреля 2980 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/sam.jpg"
-    }
-  },
-  {
-    "id": "3",
-    "attributes": {
-      "name": "Арагорн",
-      "born": "1 марта 2931 Третьей Эпохи",
-      "died": "1 марта 120 Четвертой Эпохи",
-      "image": "https://example.com/images/aragorn.jpg"
-    }
-  },
-  {
-    "id": "4",
-    "attributes": {
-      "name": "Гэндальф",
-      "born": "Неизвестно (известен как Майар Олорин)",
-      "died": "Не применимо (бессмертен)",
-      "image": "https://example.com/images/gandalf.jpg"
-    }
-  },
-  {
-    "id": "5",
-    "attributes": {
-      "name": "Леголас",
-      "born": "Неизвестно (синдарский эльф)",
-      "died": "Неизвестно (покинул Средиземье с Гимли)",
-      "image": "https://example.com/images/legolas.jpg"
-    }
-  },
-  {
-    "id": "6",
-    "attributes": {
-      "name": "Гимли",
-      "born": "2879 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье с Леголасом)",
-      "image": "https://example.com/images/gimli.jpg"
-    }
-  },
-  {
-    "id": "7",
-    "attributes": {
-      "name": "Боромир",
-      "born": "2978 Третьей Эпохи",
-      "died": "26 февраля 3019 Третьей Эпохи",
-      "image": "https://example.com/images/boromir.jpg"
-    }
-  },
-  {
-    "id": "8",
-    "attributes": {
-      "name": "Галадриэль",
-      "born": "Неизвестно (одна из первых эльфов Средиземья)",
-      "died": "Не применимо (покинула Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/galadriel.jpg"
-    }
-  },
-  {
-    "id": "9",
-    "attributes": {
-      "name": "Саурон",
-      "born": "Неизвестно (известен как Майар)",
-      "died": "Третья Эпоха 3019 (утрата физического тела)",
-      "image": "https://example.com/images/sauron.jpg"
-    }
-  },
-  {
-    "id": "10",
-    "attributes": {
-      "name": "Голлум (Смеагол)",
-      "born": "около 2430 Третьей Эпохи",
-      "died": "25 марта 3019 Третьей Эпохи",
-      "image": "https://example.com/images/gollum.jpg"
-    }
-  },
-  {
-    "id": "1",
-    "attributes": {
-      "name": "Фродо Бэггинс",
-      "born": "22 сентября 2968 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/frodo.jpg"
-    }
-  },
-  {
-    "id": "2",
-    "attributes": {
-      "name": "Сэмвайз Гэмджи",
-      "born": "6 апреля 2980 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/sam.jpg"
-    }
-  },
-  {
-    "id": "3",
-    "attributes": {
-      "name": "Арагорн",
-      "born": "1 марта 2931 Третьей Эпохи",
-      "died": "1 марта 120 Четвертой Эпохи",
-      "image": "https://example.com/images/aragorn.jpg"
-    }
-  },
-  {
-    "id": "4",
-    "attributes": {
-      "name": "Гэндальф",
-      "born": "Неизвестно (известен как Майар Олорин)",
-      "died": "Не применимо (бессмертен)",
-      "image": "https://example.com/images/gandalf.jpg"
-    }
-  },
-  {
-    "id": "5",
-    "attributes": {
-      "name": "Леголас",
-      "born": "Неизвестно (синдарский эльф)",
-      "died": "Неизвестно (покинул Средиземье с Гимли)",
-      "image": "https://example.com/images/legolas.jpg"
-    }
-  },
-  {
-    "id": "6",
-    "attributes": {
-      "name": "Гимли",
-      "born": "2879 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье с Леголасом)",
-      "image": "https://example.com/images/gimli.jpg"
-    }
-  },
-  {
-    "id": "7",
-    "attributes": {
-      "name": "Боромир",
-      "born": "2978 Третьей Эпохи",
-      "died": "26 февраля 3019 Третьей Эпохи",
-      "image": "https://example.com/images/boromir.jpg"
-    }
-  },
-  {
-    "id": "8",
-    "attributes": {
-      "name": "Галадриэль",
-      "born": "Неизвестно (одна из первых эльфов Средиземья)",
-      "died": "Не применимо (покинула Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/galadriel.jpg"
-    }
-  },
-  {
-    "id": "9",
-    "attributes": {
-      "name": "Саурон",
-      "born": "Неизвестно (известен как Майар)",
-      "died": "Третья Эпоха 3019 (утрата физического тела)",
-      "image": "https://example.com/images/sauron.jpg"
-    }
-  },
-  {
-    "id": "10",
-    "attributes": {
-      "name": "Голлум (Смеагол)",
-      "born": "около 2430 Третьей Эпохи",
-      "died": "25 марта 3019 Третьей Эпохи",
-      "image": "https://example.com/images/gollum.jpg"
-    }
-  },
-  {
-    "id": "1",
-    "attributes": {
-      "name": "Фродо Бэггинс",
-      "born": "22 сентября 2968 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/frodo.jpg"
-    }
-  },
-  {
-    "id": "2",
-    "attributes": {
-      "name": "Сэмвайз Гэмджи",
-      "born": "6 апреля 2980 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/sam.jpg"
-    }
-  },
-  {
-    "id": "3",
-    "attributes": {
-      "name": "Арагорн",
-      "born": "1 марта 2931 Третьей Эпохи",
-      "died": "1 марта 120 Четвертой Эпохи",
-      "image": "https://example.com/images/aragorn.jpg"
-    }
-  },
-  {
-    "id": "4",
-    "attributes": {
-      "name": "Гэндальф",
-      "born": "Неизвестно (известен как Майар Олорин)",
-      "died": "Не применимо (бессмертен)",
-      "image": "https://example.com/images/gandalf.jpg"
-    }
-  },
-  {
-    "id": "5",
-    "attributes": {
-      "name": "Леголас",
-      "born": "Неизвестно (синдарский эльф)",
-      "died": "Неизвестно (покинул Средиземье с Гимли)",
-      "image": "https://example.com/images/legolas.jpg"
-    }
-  },
-  {
-    "id": "6",
-    "attributes": {
-      "name": "Гимли",
-      "born": "2879 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье с Леголасом)",
-      "image": "https://example.com/images/gimli.jpg"
-    }
-  },
-  {
-    "id": "7",
-    "attributes": {
-      "name": "Боромир",
-      "born": "2978 Третьей Эпохи",
-      "died": "26 февраля 3019 Третьей Эпохи",
-      "image": "https://example.com/images/boromir.jpg"
-    }
-  },
-  {
-    "id": "8",
-    "attributes": {
-      "name": "Галадриэль",
-      "born": "Неизвестно (одна из первых эльфов Средиземья)",
-      "died": "Не применимо (покинула Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/galadriel.jpg"
-    }
-  },
-  {
-    "id": "9",
-    "attributes": {
-      "name": "Саурон",
-      "born": "Неизвестно (известен как Майар)",
-      "died": "Третья Эпоха 3019 (утрата физического тела)",
-      "image": "https://example.com/images/sauron.jpg"
-    }
-  },
-  {
-    "id": "10",
-    "attributes": {
-      "name": "Голлум (Смеагол)",
-      "born": "около 2430 Третьей Эпохи",
-      "died": "25 марта 3019 Третьей Эпохи",
-      "image": "https://example.com/images/gollum.jpg"
-    }
-  },
-  {
-    "id": "1",
-    "attributes": {
-      "name": "Фродо Бэггинс",
-      "born": "22 сентября 2968 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/frodo.jpg"
-    }
-  },
-  {
-    "id": "2",
-    "attributes": {
-      "name": "Сэмвайз Гэмджи",
-      "born": "6 апреля 2980 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/sam.jpg"
-    }
-  },
-  {
-    "id": "3",
-    "attributes": {
-      "name": "Арагорн",
-      "born": "1 марта 2931 Третьей Эпохи",
-      "died": "1 марта 120 Четвертой Эпохи",
-      "image": "https://example.com/images/aragorn.jpg"
-    }
-  },
-  {
-    "id": "4",
-    "attributes": {
-      "name": "Гэндальф",
-      "born": "Неизвестно (известен как Майар Олорин)",
-      "died": "Не применимо (бессмертен)",
-      "image": "https://example.com/images/gandalf.jpg"
-    }
-  },
-  {
-    "id": "5",
-    "attributes": {
-      "name": "Леголас",
-      "born": "Неизвестно (синдарский эльф)",
-      "died": "Неизвестно (покинул Средиземье с Гимли)",
-      "image": "https://example.com/images/legolas.jpg"
-    }
-  },
-  {
-    "id": "6",
-    "attributes": {
-      "name": "Гимли",
-      "born": "2879 Третьей Эпохи",
-      "died": "Неизвестно (покинул Средиземье с Леголасом)",
-      "image": "https://example.com/images/gimli.jpg"
-    }
-  },
-  {
-    "id": "7",
-    "attributes": {
-      "name": "Боромир",
-      "born": "2978 Третьей Эпохи",
-      "died": "26 февраля 3019 Третьей Эпохи",
-      "image": "https://example.com/images/boromir.jpg"
-    }
-  },
-  {
-    "id": "8",
-    "attributes": {
-      "name": "Галадриэль",
-      "born": "Неизвестно (одна из первых эльфов Средиземья)",
-      "died": "Не применимо (покинула Средиземье в Четвертой Эпохе)",
-      "image": "https://example.com/images/galadriel.jpg"
-    }
-  },
-  {
-    "id": "9",
-    "attributes": {
-      "name": "Саурон",
-      "born": "Неизвестно (известен как Майар)",
-      "died": "Третья Эпоха 3019 (утрата физического тела)",
-      "image": "https://example.com/images/sauron.jpg"
-    }
-  },
-  {
-    "id": "10",
-    "attributes": {
-      "name": "Голлум (Смеагол)",
-      "born": "около 2430 Третьей Эпохи",
-      "died": "25 марта 3019 Третьей Эпохи",
-      "image": "https://example.com/images/gollum.jpg"
+        "name": "Gollum (Sméagol)",
+        "born": "Circa 2430 of the Third Age",
+        "died": "March 25, 3019 of the Third Age",
+        "image": ""
     }
   }
 ]
