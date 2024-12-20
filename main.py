@@ -19,7 +19,7 @@ data = [
         "name": "Samwise Gamgee",
         "born": "April 6, 2980 of the Third Age",
         "died": "Unknown (departed Middle-earth in the Fourth Age)",
-        "image": "null"
+        "image": "https://avatars.mds.yandex.net/i?id=bd36f8dcbe6db752433057b288a5ad78c73c246e-9237081-images-thumbs&ref=rim&n=33&w=339&h=250"
     }
   },
   {
@@ -37,7 +37,7 @@ data = [
         "name": "Gandalf",
         "born": "Unknown (known as the Maia Olórin)",
         "died": "Not applicable (immortal)",
-        "image": "null"
+        "image": "https://avatars.mds.yandex.net/i?id=bd36f8dcbe6db752433057b288a5ad78c73c246e-9237081-images-thumbs&ref=rim&n=33&w=339&h=250"
     }
   },
   {
@@ -64,7 +64,7 @@ data = [
         "name": "Boromir",
         "born": "2978 of the Third Age",
         "died": "February 26, 3019 of the Third Age",
-        "image": "null"
+        "image": "https://avatars.mds.yandex.net/i?id=bd36f8dcbe6db752433057b288a5ad78c73c246e-9237081-images-thumbs&ref=rim&n=33&w=339&h=250"
     }
   },
   {
@@ -73,7 +73,7 @@ data = [
         "name": "Galadriel",
         "born": "Unknown (one of the first Elves of Middle-earth)",
         "died": "Not applicable (departed Middle-earth in the Fourth Age)",
-        "image": "null"
+        "image": "https://avatars.mds.yandex.net/i?id=bd36f8dcbe6db752433057b288a5ad78c73c246e-9237081-images-thumbs&ref=rim&n=33&w=339&h=250"
     }
   },
   {
@@ -82,7 +82,7 @@ data = [
         "name": "Sauron",
         "born": "Unknown (known as a Maia)",
         "died": "Third Age 3019 (loss of physical form)",
-        "image": "null"
+        "image": "https://avatars.mds.yandex.net/i?id=bd36f8dcbe6db752433057b288a5ad78c73c246e-9237081-images-thumbs&ref=rim&n=33&w=339&h=250"
     }
   },
   {
@@ -91,7 +91,7 @@ data = [
         "name": "Gollum (Sméagol)",
         "born": "Circa 2430 of the Third Age",
         "died": "March 25, 3019 of the Third Age",
-        "image": "null"
+        "image": "https://avatars.mds.yandex.net/i?id=bd36f8dcbe6db752433057b288a5ad78c73c246e-9237081-images-thumbs&ref=rim&n=33&w=339&h=250"
     }
   }
 ]
